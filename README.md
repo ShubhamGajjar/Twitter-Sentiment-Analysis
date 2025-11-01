@@ -18,7 +18,7 @@
 ### Setup and Requirements
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YourUsername/Twitter-Sentiment-Analysis.git](https://github.com/YourUsername/Twitter-Sentiment-Analysis.git)
+    git clone [https://github.com/ShubhamGajjar/Twitter-Sentiment-Analysis.git](https://github.com/ShubhamGajjar/Twitter-Sentiment-Analysis.git)
     ```
 2.  **Install dependencies:**
     ```bash
